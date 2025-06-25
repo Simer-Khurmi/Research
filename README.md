@@ -91,10 +91,3 @@ HTHTA/
 ├── requirements.txt
 └── LICENSE
 
-Would you like this `README.md` delivered as a ZIP package with:
-- Sample figures
-- Clean folder structure
-- Dummy `.csv` datasets
-- Optional Streamlit or Hugging Face demo stub?
-
-Let me know and I’ll prepare it!
